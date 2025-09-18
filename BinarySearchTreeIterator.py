@@ -1,5 +1,5 @@
 # Time Complexity : O(N) where N is the number of nodes in the linked list
-# Space Complexity : O(N) as we only use a constant amount of extra space for pointers
+# Space Complexity : O(N) 
 # Did this code successfully run on Leetcode : Yes
 # Any problem you faced while coding this : No
 
